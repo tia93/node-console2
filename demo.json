@@ -1,0 +1,22 @@
+[
+  {
+    "title": "ilade",
+  "author": "omero",
+   "price": 15.7,
+  "softcopy": true
+},
+
+
+
+
+  {  
+    "title": "ilade",
+  "author": "omero",
+   "price": 15.7,
+  "softcopy": true
+ }
+]
+
+ /* const pippoJson = JSON.stringify(pippo);
+console.log(pippoJson)
+libri.json

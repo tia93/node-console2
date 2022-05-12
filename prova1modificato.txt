@@ -1,0 +1,5 @@
+viva il css!!
+numero di caratteri: 13
+numero di caratteri spazi esclusi: 11
+numero di parole: 3
+la parola 'css' appare 1 volte
