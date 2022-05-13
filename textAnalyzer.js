@@ -16,7 +16,7 @@ const inputUtente = process.argv.splice(2)
  }  
 
 // 3) prendo il primo elemento come inputUrl(obbligatorio) e il secondo come outputUrl( obbligatorio)  e il terzo (non e obbligatorio)
-
+///
 // 4) leggo il contenuto del file e loggo il numero di caratteri spazi esclusi spazzi compresi numero parole numero delle occorenze della  parola de cercare(se lo ho)
 let testo 
 try {
